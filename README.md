@@ -2,7 +2,7 @@
 
 **"Predict the Game. Understand the Performance."**
 
-> 🚀 **Demo en vivo:** [https://sportmetrics-pro.vercel.app](https://sportmetrics-pro.vercel.app) _(Reemplaza esto con tu link final)_
+> 🚀 **Demo en vivo:** [https://sportmetrics-pro.vercel.app](https://sportmetrics-pro.vercel.app)
 
 SportMetrics Pro es una plataforma integral de **analítica deportiva y predicción con Inteligencia Artificial** enfocada en la LigaPro Ecuabet. Combina ingeniería de datos histórica, simulación estadística y visualización de datos moderna para ofrecer insights profundos sobre equipos, jugadores y entrenadores.
 
